@@ -15,12 +15,13 @@ At the start I struggled a lot trying to figure out how to use Arduino Editor. I
 
 ## Finite LED Blinker
 
-
+For this assignment I had to make an LED blink five times and then stop.
 
 [Finite LED Blinker]
 https://create.arduino.cc/editor/FinnWimberley/6c2560ff-0819-494f-8df7-9a32b46de519
 
 ![FiniteLEDBlinker](Images/FiniteLEDBlinker.jpg)
 
+This assignment was a little similar to the last assignment because it involved making an LED blink, but it was a lot more complicated and difficult. I had to use "if" and "else" statements to tell Arduino to blink the LED if the counter was five or less and to stop blinking the LED if the counter was six or more.  I also had to make sure I made the delays long enough and in the right areas so that I was able to tell when it stopped blinking.  Like with the last assignment, after I played around with varying delay times in different areas, I eventually got it to look nice.
 
 ---
