@@ -33,7 +33,7 @@ discription
 [Hello Functions]
 https://create.arduino.cc/editor/FinnWimberley/d8cc3e68-0564-485b-9fe2-75d574ad8e53
 
-![SensorAndServo](Images/SensorAndServo.jpg)
+![SensorAndServo](Images/SensorAndServ.jpg)
 
 reflection
 
