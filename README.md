@@ -41,7 +41,7 @@ This was the most challenging assignment yet.  It involved skilles that I learne
 
 ## Hello Functions
 
-For this assignment I had to 
+For this assignment I had to code something using the NewPing library.
 
 [NewPing]
 https://create.arduino.cc/editor/FinnWimberley/f0011cec-e91f-4155-8e65-579b9e3700e6
