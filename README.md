@@ -46,7 +46,7 @@ For this assignment I had to
 [NewPing]
 https://create.arduino.cc/editor/FinnWimberley/f0011cec-e91f-4155-8e65-579b9e3700e6
 
-![NewPing](Images/libewPing.jpg)
+![NewPing](Images/NewPing.jpg)
 
 Discription
 
