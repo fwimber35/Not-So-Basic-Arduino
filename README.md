@@ -54,14 +54,14 @@ This was a smaller assignment then the last one but it was still very challengin
 
 ## Photoresistor
 
-For this assignment I had to 
+For this assignment I had to make an LED turn on based on the light levels around it.
 
 [Photoresistor]
 https://create.arduino.cc/editor/FinnWimberley/f0011cec-e91f-4155-8e65-579b9e3700e6
 
 ![Photoresistor](Images/Photoresistor.jpg)
 
-description
+This was the last asignment before the project and was another very challenging one.  I reilized I was not given the 10k resistor so I had to make my own with salt, water and wires.  Then I had to wire the photoresistor and the LED to the breadboard and the aurduino.  Next I wrote a program to figure out the voltage of the photoresistor circuit when it was bright and when it was dark.  After that I added some code to turn the led on and off based on the amount of voltage in the curcuit using an if else statement and added a good delay time.  Finally When I ran the code the LED was off but when I put my finger over it to make it dark the LED turned on.
 
 ---
 
