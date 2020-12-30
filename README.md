@@ -51,3 +51,17 @@ https://create.arduino.cc/editor/FinnWimberley/f0011cec-e91f-4155-8e65-579b9e370
 This was a smaller assignment then the last one but it was still very challenging.  I had to creat a program that utilized the NewPing library.  First I included the library at the top of the program.  Then I difined the variables for the trigger pin, echo pin, maximum distance and one more distance mesured by the sensor.  Next I wrote the constructor which allows me to easily use functions from the NewPing library in my code.  Finally I dicided to use the sonar.ping function to print the distance captured by the sensor to the serial monitor in centimeters.
 
 ---
+
+## Photoresistor
+
+For this assignment I had to 
+
+[Photoresistor]
+https://create.arduino.cc/editor/FinnWimberley/f0011cec-e91f-4155-8e65-579b9e3700e6
+
+![Photoresistor](Images/Photoresistor.jpg)
+
+description
+
+---
+
