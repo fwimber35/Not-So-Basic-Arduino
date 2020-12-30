@@ -39,7 +39,7 @@ This was the most challenging assignment yet.  It involved skilles that I learne
 
 ---
 
-## Hello Functions
+## NewPing
 
 For this assignment I had to code something using the NewPing library.
 
